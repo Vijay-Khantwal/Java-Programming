@@ -1,4 +1,4 @@
-package Recursion;
+package SortingRecursion;
 
 import java.util.Arrays;
 
