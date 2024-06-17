@@ -17,8 +17,8 @@ public class LL {
       }
 
       public Node head;
-      private Node tail;
-      private int size;
+      public Node tail;
+      public int size;
 
       public LL() {
             this.size = 0;
